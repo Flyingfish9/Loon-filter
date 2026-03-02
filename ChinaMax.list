@@ -10,6 +10,7 @@
 # IP-CIDR6: 4309
 # USER-AGENT: 65
 # TOTAL: 130167
+# 原136行 有的色情网站会走次线路后失联 IP-CIDR,0.0.0.0/32,no-resolve
 DOMAIN-SUFFIX,alibaba
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
@@ -133,7 +134,6 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 USER-AGENT,iQIYI*
 IP-ASN,132203,no-resolve
-# 有的色情网站会走次线路后失联 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
